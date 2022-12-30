@@ -1,3 +1,7 @@
 Hello from IntelliJ
 
 another line was added
+with this line I fixed bug #1
+
+
+
